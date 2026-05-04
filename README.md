@@ -1,2 +1,2 @@
-# bruhTLS (TLS = Terminal Logic Simulator
+# bruhTLS (TLS = Terminal Logic Simulator)
 todo: put stuff here
